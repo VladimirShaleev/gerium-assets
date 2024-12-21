@@ -1,0 +1,18 @@
+Amazon Lumberyard Bistro
+
+Created by Amazon Lumberyard for a 2017 GDC demo.
+
+In this version, the meshes were assembled into a single cluster, and the textures were converted for the PBR pipeline.
+
+@misc{ORCAAmazonBistro,
+   title = {Amazon Lumberyard Bistro, Open Research Content Archive (ORCA)},
+   author = {Amazon Lumberyard},
+   year = {2017},
+   month = {July},
+   note = {\small \texttt{http://developer.nvidia.com/orca/amazon-lumberyard-bistro}},
+   url = {http://developer.nvidia.com/orca/amazon-lumberyard-bistro}
+}
+
+License: CC-BY 4.0
+
+© 2017 Amazon Lumberyard
