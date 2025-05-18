@@ -17,6 +17,7 @@ To add the repository, create the following `vcpkg-configuration.json` file next
       "reference": "vcpkg-registry",
       "baseline": "f7293c18e566cf6dc044963498abf523e3b4c30e",
       "packages": [
+        "fidelityfx",
         "imgui",
         "joltphysics"
       ]
